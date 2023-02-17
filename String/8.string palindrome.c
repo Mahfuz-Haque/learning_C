@@ -4,7 +4,7 @@ int main()
 {
     char a[100] ,b[100];
 
-    printf("enter your name here to check off they are palindrome:");
+    printf("enter your name here to check if they are palindrome or not:");
     gets(a);
 
     strrev(a);
