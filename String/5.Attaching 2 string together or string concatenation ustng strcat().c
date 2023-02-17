@@ -12,6 +12,6 @@ int main()
 
     strcat(a,b);
 
-    printf ("Your Fouu name is:%s",a);
+    printf ("Your Full name is:%s",a);
     return 0;
 }
