@@ -13,6 +13,14 @@ int main()
         scanf("%d",&a[i][j]);
        }
 
+       for (i=0;i<row;i++)
+       {  
+           printf("\n");
+           for (j=0;j<col;j++)
+            printf("%d",a[i][j]);
+
+       }
+
     sum=sum+a[i][j];
     printf("\n");
 
